@@ -18,8 +18,7 @@ Source - Colab file
 
 Figures - extra plots form different softwares
 
-Presentation - Find a PDF file and a [link]([URL](https://www.canva.com/design/DAFmFV24gZk/RibJDzrobogaW8MqHbcMoA/view?utm_content=DAFmFV24gZk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-)  to check the presentation in Canva.
+Presentation - Find a PDF file and a [link](https://www.canva.com/design/DAFmFV24gZk/RibJDzrobogaW8MqHbcMoA/view?utm_content=DAFmFV24gZk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)  to check the presentation in Canva.
 
 The README.md file (this file) provides an overview of the project and its objectives.
 
@@ -40,6 +39,6 @@ Andrej Borkowski
 - Canva
 
 ### Final Presentation
-[Check this out]([https://www.canva.com/design/DAFiEZC2hTg/GBHwiXsNscKoGlqA0e2U-g/edit?utm_content=DAFiEZC2hTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFmFV24gZk/RibJDzrobogaW8MqHbcMoA/view?utm_content=DAFmFV24gZk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)https://www.canva.com/design/DAFmFV24gZk/RibJDzrobogaW8MqHbcMoA/view?utm_content=DAFmFV24gZk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[Check this out](https://www.canva.com/design/DAFmFV24gZk/RibJDzrobogaW8MqHbcMoA/view?utm_content=DAFmFV24gZk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 Enjoy the project and happy data analysis! 🙂
